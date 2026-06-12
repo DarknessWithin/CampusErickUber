@@ -391,28 +391,6 @@ npm run dev
 | **Driver Dashboard** | Stats, online toggle, pending & assigned rides |
 | **Ride Rating Page** | Star rating and feedback submission |
 
----
-
-## 🔮 Future Improvements
-
-- [ ] JWT Authentication & Role-Based Security
-- [ ] Google Maps Integration
-- [ ] Live Driver Location Tracking
-- [ ] Fare Calculation Engine
-- [ ] Driver Earnings Dashboard
-- [ ] Customer & Driver Profile Management
-- [ ] Ride Search and Filters
-- [ ] Push Notifications
-- [ ] Admin Panel
-- [ ] Cloud Deployment
-
----
-
-## 📚 Learning Outcomes
-
-This project demonstrates:
-
-> Spring Boot REST API · React Frontend · MySQL Design · JPA/Hibernate Relationships · WebSocket Communication · Real-Time Systems · State Management · Full Stack Integration · Client-Server Architecture
 
 ---
 
