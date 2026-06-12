@@ -17,7 +17,17 @@
 
 ---
 
+## Google Drive Link (Demo Video)
+
 https://drive.google.com/drive/folders/1ms3Ixs9K2hc17-6561-5za2VUmANMMMu?usp=sharing
+
+---
+
+## Design Document
+shared in the repo 
+RideFlow_Design_Document.pdf
+
+---
 
 ## 📋 Table of Contents
 
